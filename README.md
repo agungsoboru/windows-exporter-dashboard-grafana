@@ -3,6 +3,7 @@
 
 work in progress
 
+exporter used https://github.com/prometheus-community/windows_exporter
 
 
 ![image](https://github.com/agungsoboru/windows-exporter-dashboard-grafana/blob/main/Screenshot%20(1367).png))
